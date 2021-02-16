@@ -35,8 +35,27 @@ Bibliothèque (Library) .
 
 ![image](https://drive.google.com/uc?export=view&id=1qAtrovFkgDo9okVJBYTkrGSnBuSyO3hu)
 
+## Choix techniques
+#### Front End
+- HTML/CSS 
+- Angular 7
 
+#### Back End
+- Java 8 (Langage)
+- Spring Boot 2.1.2 (Framework simplifiant le développement d'application Spring)
+- Spring ioc (Injection de dépendances) 
+- Spring webmvc (Traitement des requêtes HTTP Restfull venant du client)
+- Springfox 2.9.2 (Documentation Swagger 2 des API)
+- Spring Mail (Gestion des mails) 
+- Spring Data JPA / Hibernate (Persistance des données) 
+- H2 (base de données) 
 
+#### IDE 
+- Visual Studio Code 
+- IntelliJ IDEA
 
+#### Déploiement 
+- Tomcat 8
 
-
+## Architecture
+![Image](https://drive.google.com/uc?export=view&id=1CFtsm6YPaGakWG8OZtmJ1XcoJD6P8kb8)
